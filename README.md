@@ -1,7 +1,7 @@
 # Customer Segmentation for Loan Cross-Selling
 
 ## Project Overview
-This project analyzes customer data from **MyBank** to identify profitable segments for **personal loan cross-selling**.  
+This project analyzes customer data from a Bank to identify profitable segments for **personal loan cross-selling**.  
 The dataset originates from a pilot campaign where 20,000 customers were offered a personal loan.
 
 - **2,512 customers** accepted the offer (`TARGET = 1`)  
